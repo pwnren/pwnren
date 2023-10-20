@@ -1,6 +1,6 @@
  Hi, I’m @pwnren
  
- I’m interested in defensive security in an enterprise.
+ I’m enjoy exploring in defensive security and threat hunting.
 
 
 <!---
