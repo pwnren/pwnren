@@ -1,6 +1,6 @@
  Hi, I’m @pwnren
  
- I’m enjoy exploring in defensive security and threat hunting.
+ I enjoy exploring in defensive security and threat hunting.
 
 
 <!---
