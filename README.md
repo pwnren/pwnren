@@ -30,7 +30,7 @@ I am continuously advancing my knowledge in defensive cybersecurity, incident re
 
 ---
 
-## Architecture Philosophy
+## Design Principles
 
 - Segmentation first  
 - Default deny mindset  
@@ -41,6 +41,6 @@ I am continuously advancing my knowledge in defensive cybersecurity, incident re
 
 ---
 
-## Direction
+## Strategic Focus
 
 Continuing to deepen expertise in secure OT architecture, defensive network engineering, and infrastructure modernization within industrial environments.
