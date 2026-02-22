@@ -21,17 +21,6 @@ I am continuously advancing my knowledge in defensive cybersecurity, incident re
 
 ---
 
-## Technical Interests
-
-- Operational Technology (OT) security  
-- Defensive cybersecurity  
-- Incident response methodology  
-- Infrastructure hardening & compliance alignment  
-- Secure architecture design  
-- Resilient network engineering  
-
----
-
 ## Featured Work
 
 - OT Network Architecture (Purdue aligned segmentation strategy)  
