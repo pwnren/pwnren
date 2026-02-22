@@ -6,7 +6,7 @@ My work centers on Purdue Model aligned design, Industrial DMZ segmentation, VRF
 
 I approach network engineering with a defensive mindset prioritizing least privilege routing, layered segmentation, and long term resiliency.
 
-I am continuously advancing my knowledge in defensive cybersecurity, incident response concepts, and secure architecture modernization across industrial systems.
+I continuously advance my expertise in defensive cybersecurity, incident response principles, and secure architecture modernization across both modern and legacy industrial environments.
 
 ---
 
