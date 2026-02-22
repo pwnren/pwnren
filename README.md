@@ -1,6 +1,6 @@
 ## About Me
 
-My work centers on Purdue Model aligned design, Industrial DMZ segmentation, VRF based isolation, and hardened Cisco base networks within OT (Operational Technology) environments.
+My work centers on Purdue Model aligned design, Industrial DMZ segmentation, VRF based isolation, and hardened Cisco based networks within OT (Operational Technology) environments.
 
 I approach network engineering with a defensive mindset prioritizing least privilege routing, layered segmentation, and long term resiliency.
 
