@@ -24,7 +24,6 @@ I continuously advance my expertise in defensive cybersecurity, incident respons
 - OT Network Architecture (Purdue aligned segmentation strategy)  
 - Cisco IOS Secure Baseline (OT focused hardened configuration template)  
 - Windows Server Hardening Baseline  
-- Network Engineering & Subnetting Cheat Sheets  
 
 ---
 
