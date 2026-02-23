@@ -1,7 +1,5 @@
 ## About Me
 
-My work centers on Purdue Model aligned design, Industrial DMZ segmentation, VRF based isolation, and hardened Cisco based networks within OT environments.
-
 I continuously advance my expertise in defensive cybersecurity, incident response principles, and secure architecture across both modern and legacy industrial environments.
 
 ---
