@@ -4,33 +4,11 @@ I continuously advance my expertise in defensive cybersecurity, incident respons
 
 ---
 
-## Current Focus
-
-- OT network segmentation aligned with the Purdue Model  
-- Industrial DMZ architecture & boundary enforcement  
-- Cisco IOS secure baseline hardening  
-- VRF based isolation strategies 
-- Layer 2 & Layer 3 defensive controls  
-- Secure management plane design (AAA / TACACS / SSH / SNMPv3)  
-
----
-
 ## Featured Work
 
 - OT Network Architecture (Purdue aligned segmentation strategy)  
-- Cisco IOS Secure Baseline
+- Cisco IOS Secure Baseline hardening  
 - Windows Server Hardening Baseline  
-
----
-
-## Design Principles
-
-- Segmentation first  
-- Default deny mindset  
-- Encrypted management access only  
-- Least privilege routing  
-- Defense in depth layering  
-- Reliability and security must coexist  
 
 ---
 
