@@ -1,6 +1,8 @@
 ## About Me
 
-I continuously advance my expertise in defensive cybersecurity, incident response principles, and secure architecture across both modern and legacy industrial environments.
+I continuously advance my expertise in defensive cybersecurity, incident response, and secure architecture across modern and legacy industrial environments.
+
+Focused on securing OT architecture, segmentation strategy, and network engineering.
 
 ---
 
@@ -11,7 +13,3 @@ I continuously advance my expertise in defensive cybersecurity, incident respons
 - Windows Server Hardening Baseline  
 
 ---
-
-## Strategic Focus
-
-Continuing to deepen expertise in secure OT architecture, defensive network engineering, and infrastructure modernization within industrial environments.
