@@ -20,7 +20,7 @@ I continuously advance my expertise in defensive cybersecurity, incident respons
 ## Featured Work
 
 - OT Network Architecture (Purdue aligned segmentation strategy)  
-- Cisco IOS Secure Baseline (OT focused hardened configuration template)  
+- Cisco IOS Secure Baseline
 - Windows Server Hardening Baseline  
 
 ---
