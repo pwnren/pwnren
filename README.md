@@ -2,9 +2,9 @@
 
 My work centers on Purdue Model aligned design, Industrial DMZ segmentation, VRF based isolation, and hardened Cisco based networks within OT (Operational Technology) environments.
 
-I approach network engineering with a defensive mindset prioritizing least privilege routing, layered segmentation, and long term resiliency.
+I approach network engineering with a defensive mindset prioritizing least privilege, routing, layered segmentation, and long term resiliency.
 
-I continuously advance my expertise in defensive cybersecurity, incident response principles, and secure architecture modernization across both modern and legacy industrial environments.
+I continuously advance my expertise in defensive cybersecurity, incident response principles, and secure architecture across both modern and legacy industrial environments.
 
 ---
 
